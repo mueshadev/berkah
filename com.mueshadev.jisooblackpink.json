@@ -1,0 +1,450 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "The Album",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "SquareUp",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Square Two",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Square One",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Single",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Kill This Love",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Born Pink",
+      "image": "file:///android_asset/image/muesha.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Jisoo",
+      "image": "file:///android_asset/image/muesha.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Jisoo",
+      "title": "All Eyes on Me",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "jiso/jiso_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Jisoo",
+      "title": "Flower",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "jiso/jiso_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Jisoo",
+      "title": "Flower Live",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "jiso/jiso_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Jisoo",
+      "title": "Flower One Take Stage",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "jiso/jiso_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Born Pink",
+      "title": "Happiest Girl",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/happiest_girl.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Born Pink",
+      "title": "Hard To Love",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/hard_to_love.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Born Pink",
+      "title": "Pink Venom",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/pink_venom.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Born Pink",
+      "title": "Ready For Love",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/ready_for_love.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Born Pink",
+      "title": "Shut Down",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/shut_down.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Born Pink",
+      "title": "Tally",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/tally.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Born Pink",
+      "title": "Typa Girl",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "born/typa_girl.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Born Pink",
+      "title": "Yeah Yeah",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/yeah_yeah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Kill This Love",
+      "title": "DDU-DU DDU-DU",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/ddu_du_ddu_du_remix.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Kill This Love",
+      "title": "Don't Know What To Do",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/dont_know_what_to_do.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Kill This Love",
+      "title": "Hope Not",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/hope_not.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Kill This Love",
+      "title": "Can I Kick It?",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/kick_it.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Kill This Love",
+      "title": "KILL THIS LOVE",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "KillThisLove/kill_this_love.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Single",
+      "title": "As If It Your Last",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/as_if_it_your_last.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Single",
+      "title": "Love is gone-rose",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/gone.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Single",
+      "title": "SOLO M/V",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/jennie_solo.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Single",
+      "title": "Clarity",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/jiso_clarity.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Single",
+      "title": "You",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/jiso_you.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Single",
+      "title": "Kiss and Makeup",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/kiss_and_makeup_dua.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Single",
+      "title": "Lalisa",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/lalisa.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Single",
+      "title": "Last Christmas",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/last_christmas.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Single",
+      "title": "Money Ain't The Key (feat. Lisa Lee)",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/money.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Single",
+      "title": "Sour Candy",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/sour_candy.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Single",
+      "title": "So Hot",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/so_hot.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Single",
+      "title": "On The Ground",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/the_ground.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Single",
+      "title": "Touch",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/touch.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Single",
+      "title": "Jennie Let Me Love You",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Single/you_me.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Square One",
+      "title": "Boombayah",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Square_One/boombayah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Square One",
+      "title": "Whistle",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Square_One/whistle.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Square Two",
+      "title": "PLAYING WITH FIRE",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Square_Two/playing_with_fire.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Square Two",
+      "title": "Stay with Me",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "Square_Two/stay.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "SquareUp",
+      "title": "DDU-DU DDU-DU",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "SquareUp/ddu_du_ddu_du.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "SquareUp",
+      "title": "Forever Young",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "SquareUp/forever_young.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "SquareUp",
+      "title": "Never Really Over",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "SquareUp/really.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "SquareUp",
+      "title": "See U Later",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "SquareUp/see_u_later.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "The Album",
+      "title": "Bet You Wanna ft. Cardi B",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/bet_you.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "The Album",
+      "title": "Crazy Over You",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/crazy_over_you.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "The Album",
+      "title": "Ice Cream (with Selena Gomez)",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/cream.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "The Album",
+      "title": "How you like that",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/how_you_like_that.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "The Album",
+      "title": "Love To Hate, Hate To Me",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/love_to_hate_me.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "The Album",
+      "title": "Lovesick Girls",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/lovesick_girls.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "The Album",
+      "title": "Pretty Savage",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/pretty_savage.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "The Album",
+      "title": "You Never Know",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "thealbum/you_never_know.mp3",
+      "lyrics": ""
+    }
+  ]
+}
