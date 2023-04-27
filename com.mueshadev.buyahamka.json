@@ -61,7 +61,7 @@
     {
       "id": 1,
       "name_category": "K.H. Buya Hamka",
-      "image": "file:///android_asset/image/hamka.png"
+      "image": "file:///android_asset/image/hamka.jpg"
     }
   ],
   "Data": [
@@ -392,7 +392,7 @@
 { "id": 138, "name_category": "Hanan Attaki" , "title": "Woles Aja" , "image": "file:///android_asset/image/hanan.jpg" , "link_mp3": "https://ia800904.us.archive.org/35/items/CeramahUstHananAttaki/Woles%20Aja%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3" , "lyrics":"<p style=\"text-align: center;\">Terima Kasih sudah mengunduh Aplikasi ini </p>\n<p style=\"text-align: center;\">Semoga menjadi amal ibadah dan ladang amal ... Aamiin</p>"},
 	{
 	  "id": 139,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "8 Perkara dalam Hidup",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "buya/1.mp3",
@@ -400,7 +400,7 @@
 	},
 	{
 	  "id": 140,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "Agar Mudah Membayar Hutang",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "buya/2.mp3",
@@ -416,7 +416,7 @@
 	},
 	{
 	  "id": 142,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "Lakukan ini dan hidup tenang",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "buya/4.mp3",
@@ -424,7 +424,7 @@
 	},
 	{
 	  "id": 143,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "OBAT DARI SEGALA MACAM PENYAKIT",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "buya/5.mp3",
@@ -432,7 +432,7 @@
 	},
 	{
 	  "id": 144,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "Pegangan Hidup",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "buya/6.mp3",
@@ -440,7 +440,7 @@
 	},
 	{
 	  "id": 145,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "Cinta dan Cemburu",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "https://ia801605.us.archive.org/17/items/BuyaHamka-M/Cinta%20dan%20Cemburu.mp3",
@@ -448,7 +448,7 @@
 	},
 	{
 	  "id": 146,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "HIDUP SESUDAH MATI",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "https://ia801605.us.archive.org/17/items/BuyaHamka-M/HIDUP%20SESUDAH%20MATI.mp3",
@@ -456,7 +456,7 @@
 	},
 	{
 	  "id": 147,
-      "name_category": "KH Buya Hamka",
+      "name_category": "K.H. Buya Hamka",
       "title": "Ibadah Puasa",
       "image": "file:///android_asset/image/hamka.jpg",
       "link_mp3": "https://archive.org/download/BuyaHamka-M/Ibadah%20Buka%20Puasa.mp3",
