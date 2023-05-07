@@ -1,0 +1,279 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97XXX",
+      "backup_ads_intertitial":"518cd97722c60XXX",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Mufti Menk",
+      "image": "file:///android_asset/image/muesha.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Mufti Menk",
+      "title": "Juz 1",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Mufti Menk",
+      "title": "Juz 2",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Mufti Menk",
+      "title": "Juz 3",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Mufti Menk",
+      "title": "Juz 4",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Mufti Menk",
+      "title": "Juz 5",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Mufti Menk",
+      "title": "Juz 6",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Mufti Menk",
+      "title": "Juz 7",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Mufti Menk",
+      "title": "Juz 8",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Mufti Menk",
+      "title": "Juz 9",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Mufti Menk",
+      "title": "Juz 10",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Mufti Menk",
+      "title": "Juz 11",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Mufti Menk",
+      "title": "Juz 12",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Mufti Menk",
+      "title": "Juz 13",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Mufti Menk",
+      "title": "Juz 14",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Mufti Menk",
+      "title": "Juz 15",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Mufti Menk",
+      "title": "Juz 16",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Mufti Menk",
+      "title": "Juz 17",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Mufti Menk",
+      "title": "Juz 18",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Mufti Menk",
+      "title": "Juz 19",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Mufti Menk",
+      "title": "Juz 20",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Mufti Menk",
+      "title": "Juz 21",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Mufti Menk",
+      "title": "Juz 22",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Mufti Menk",
+      "title": "Juz 23",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Mufti Menk",
+      "title": "Juz 24",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Mufti Menk",
+      "title": "Juz 25",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Mufti Menk",
+      "title": "Juz 26",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Mufti Menk",
+      "title": "Juz 27",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Mufti Menk",
+      "title": "Juz 28",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Mufti Menk",
+      "title": "Juz 29",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Mufti Menk",
+      "title": "Juz 30",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "menk/mufti_30.mp3",
+      "lyrics": ""
+    }
+  ]
+}
