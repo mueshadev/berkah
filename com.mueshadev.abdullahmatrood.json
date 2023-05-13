@@ -1,0 +1,951 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97XXX",
+      "backup_ads_intertitial":"518cd97722c60XXX",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Abdullah Matrood",
+      "image": "file:///android_asset/image/muesha.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Abdullah Matrood",
+      "title": "001 : Al Fatiha",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Abdullah Matrood",
+      "title": "002 : Al Baqarah",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Abdullah Matrood",
+      "title": "003 : A'al Imran",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Abdullah Matrood",
+      "title": "004 : Al Nesa'a",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Abdullah Matrood",
+      "title": "005 : Al Ma'edah",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Abdullah Matrood",
+      "title": "006 :  Al Ana'am",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Abdullah Matrood",
+      "title": "007 : Al A`araf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Abdullah Matrood",
+      "title": "008 : Al Anfal",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Abdullah Matrood",
+      "title": "009 : At Tawba",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Abdullah Matrood",
+      "title": "010 : Yunus",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Abdullah Matrood",
+      "title": "011 : Hud",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Abdullah Matrood",
+      "title": "012 : Yusuf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Abdullah Matrood",
+      "title": "013 : Ar Rad",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Abdullah Matrood",
+      "title": "014 : Ibrahim",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Abdullah Matrood",
+      "title": "015 : Al Hijr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Abdullah Matrood",
+      "title": "016 : Al Nahl",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Abdullah Matrood",
+      "title": "017 : Al Isra",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Abdullah Matrood",
+      "title": "018 : Al Kahf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Abdullah Matrood",
+      "title": "019 : Maryam",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Abdullah Matrood",
+      "title": "020 : Taha",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Abdullah Matrood",
+      "title": "021 : Al Anbiya",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Abdullah Matrood",
+      "title": "022 : Al Najj",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Abdullah Matrood",
+      "title": "023 : Al Mumenoon",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Abdullah Matrood",
+      "title": "024 : An Noor",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Abdullah Matrood",
+      "title": "025 : Al Furqan",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Abdullah Matrood",
+      "title": "026 : Ash Shuara",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Abdullah Matrood",
+      "title": "027 : An Naml",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Abdullah Matrood",
+      "title": "028 : Al Qasas",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Abdullah Matrood",
+      "title": "029 : Al Ankaboot",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Abdullah Matrood",
+      "title": "030 : Ar Room",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Abdullah Matrood",
+      "title": "031 : Luqman",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Abdullah Matrood",
+      "title": "032 : AS Sajda",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Abdullah Matrood",
+      "title": "033 : Al Ahzab",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Abdullah Matrood",
+      "title": "034 : Saba",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Abdullah Matrood",
+      "title": "035 : Fatir",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Abdullah Matrood",
+      "title": "036 : Yaseen",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Abdullah Matrood",
+      "title": "037 : As Saaffat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Abdullah Matrood",
+      "title": "038 : Sad",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Abdullah Matrood",
+      "title": "039 : Az Zumar",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Abdullah Matrood",
+      "title": "040 : Ghafir",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Abdullah Matrood",
+      "title": "041 : Fussilat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Abdullah Matrood",
+      "title": "042 : Ash Shura",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Abdullah Matrood",
+      "title": "043 : Az Zukhruf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Abdullah Matrood",
+      "title": "044 : Ad Dukhan",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Abdullah Matrood",
+      "title": "045 : Al Jathiya",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Abdullah Matrood",
+      "title": "046 : Al Ahqaf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Abdullah Matrood",
+      "title": "047 : Muhammad",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Abdullah Matrood",
+      "title": "048 : Al Fath",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Abdullah Matrood",
+      "title": "049 : Al Hujraat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Abdullah Matrood",
+      "title": "050 : Qaf",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Abdullah Matrood",
+      "title": "051 : Ad Dhariyat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Abdullah Matrood",
+      "title": "052 : At Tur",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Abdullah Matrood",
+      "title": "053 : An Najm",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Abdullah Matrood",
+      "title": "054 : Al Qamar",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Abdullah Matrood",
+      "title": "055 : Ar Rahman",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Abdullah Matrood",
+      "title": "056 : Al Waqia",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Abdullah Matrood",
+      "title": "057 : Al Hadid",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Abdullah Matrood",
+      "title": "058 : Al Mujadala",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Abdullah Matrood",
+      "title": "059 : Al Hashr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_59.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Abdullah Matrood",
+      "title": "060 : Al Mumtahana",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_60.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "Abdullah Matrood",
+      "title": "061 : As Saff",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Abdullah Matrood",
+      "title": "062 : Al Jumua",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "Abdullah Matrood",
+      "title": "063 : Al Munafiqoon",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "Abdullah Matrood",
+      "title": "064 : At Taghabun",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "Abdullah Matrood",
+      "title": "065 : At Talaq",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "Abdullah Matrood",
+      "title": "066 : At Tahrim",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "Abdullah Matrood",
+      "title": "067 :  Al Mulk",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "Abdullah Matrood",
+      "title": "068 : Al Qalam",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_68.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "Abdullah Matrood",
+      "title": "069 : Al Haqqa",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_69.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "Abdullah Matrood",
+      "title": "070 : Al Maarij",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_70.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "Abdullah Matrood",
+      "title": "071 : Nooh",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_71.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "Abdullah Matrood",
+      "title": "072 : Al Jinn",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_72.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "Abdullah Matrood",
+      "title": "073 : Al Muzzamill",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_73.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "Abdullah Matrood",
+      "title": "074 : Al Muddaththir",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_74.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "Abdullah Matrood",
+      "title": "075 : Al Qiyama",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_75.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "Abdullah Matrood",
+      "title": "076 : Al Insan",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_76.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "Abdullah Matrood",
+      "title": "077 : Al Mursalat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_77.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "Abdullah Matrood",
+      "title": "078 : An Naba",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_78.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "Abdullah Matrood",
+      "title": "079 : An Naziat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_79.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "Abdullah Matrood",
+      "title": "080 : Abasa",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_80.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 81,
+      "name_category": "Abdullah Matrood",
+      "title": "081 : Al Takwir",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_81.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "Abdullah Matrood",
+      "title": "082 : Al Infitar",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_82.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "Abdullah Matrood",
+      "title": "083 : Al Mutaffifin",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_83.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "Abdullah Matrood",
+      "title": "084 : Al Inshiqaq",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_84.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 85,
+      "name_category": "Abdullah Matrood",
+      "title": "085 : Al Burooj",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_85.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "Abdullah Matrood",
+      "title": "086 : At Tariq",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_86.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "Abdullah Matrood",
+      "title": "087 : Al Ala",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_87.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "Abdullah Matrood",
+      "title": "088 : Al Ghashiya",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_88.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "Abdullah Matrood",
+      "title": "089 : Al Fajr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_89.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "Abdullah Matrood",
+      "title": "090 : Al Balad",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_90.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 91,
+      "name_category": "Abdullah Matrood",
+      "title": "091 : Ash Shams",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_91.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 92,
+      "name_category": "Abdullah Matrood",
+      "title": "092 : Al Layl",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_92.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "Abdullah Matrood",
+      "title": "093 : Ad Dhuha",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_93.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "Abdullah Matrood",
+      "title": "094 : As Sharh",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_94.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "Abdullah Matrood",
+      "title": "095 : At Tin",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_95.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "Abdullah Matrood",
+      "title": "096 : Al Alaq",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_96.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "Abdullah Matrood",
+      "title": "097 : Al Qadr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_97.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "Abdullah Matrood",
+      "title": "098 : Al Bayyina",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_98.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 99,
+      "name_category": "Abdullah Matrood",
+      "title": "099 : Az Zalzala",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_99.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "Abdullah Matrood",
+      "title": "100 : Al Adiyat",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_100.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 101,
+      "name_category": "Abdullah Matrood",
+      "title": "101 : Al Qaria",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_101.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "Abdullah Matrood",
+      "title": "102 : At Takathur",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_102.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "Abdullah Matrood",
+      "title": "103 : Al Asr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_103.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "Abdullah Matrood",
+      "title": "104 : Al Humaza",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_104.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "Abdullah Matrood",
+      "title": "105 : Al Fil",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_105.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 106,
+      "name_category": "Abdullah Matrood",
+      "title": "106 : Quraish",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_106.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "Abdullah Matrood",
+      "title": "107 : Al Maun",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_107.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "Abdullah Matrood",
+      "title": "108 : Al Kauther",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_108.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "Abdullah Matrood",
+      "title": "109 : Al Kafiroon",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_109.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "Abdullah Matrood",
+      "title": "110 : An Nasr",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_110.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 111,
+      "name_category": "Abdullah Matrood",
+      "title": "111 : Al Masadd",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_111.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "Abdullah Matrood",
+      "title": "112 : Al Ikhlas",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_112.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 113,
+      "name_category": "Abdullah Matrood",
+      "title": "113 : Al Falaq",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_113.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 114,
+      "name_category": "Abdullah Matrood",
+      "title": "114 : An Nas",
+      "image": "file:///android_asset/image/muesha.jpg",
+      "link_mp3": "abdullah/matrood_114.mp3",
+      "lyrics": ""
+    }
+  ]
+}
